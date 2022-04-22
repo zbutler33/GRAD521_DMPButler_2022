@@ -1,4 +1,6 @@
 # GRAD521_DMPButler_2022
+https://github.com/zbutler33/GRAD521_DMPButler_2022.git
+
 Data Management Plan for the research project calculating observed water residence times with stable isotopes
 
 Context of the project:
